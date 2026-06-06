@@ -14,11 +14,11 @@ A Flutter app for discovering the world's most stunning destinations — search,
 
 | Home | Explore | Location |
 |:---:|:---:|:---:|
-| <img src="ScreenShotsApp.zip/HomeTab.png" width="180"/> | <img src="ScreenShotsApp.zip/Explore.png" width="180"/> | <img src="ScreenShotsApp/Location.png" width="180"/> |
+| <img src="Image/HomeTab.png" width="180"/> | <img src="Image/Explore.png" width="180"/> | <img src="Image/Location.png" width="180"/> |
 
 | Details | Saved | Profile |
 |:---:|:---:|:---:|
-| <img src="ScreenShotsApp/InsideLocation.png" width="180"/> | <img src="ScreenShotsApp/SavedTab.png" width="180"/> | <img src="ScreenShotsApp/ProfileTab.png" width="180"/> |
+| <img src="Image/InsideLocation.png" width="180"/> | <img src="Image/SavedTab.png" width="180"/> | <img src="Image/ProfileTab.png" width="180"/> |
 
 ---
 

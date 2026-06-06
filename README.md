@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/28659111/README.1.md)
 # ✈️ World Explorer — Flutter Tourism App
 
 A Flutter mobile application for discovering and exploring top tourist destinations around the world. Users can browse places, filter by category, search, save favorites, and open locations directly in Google Maps.

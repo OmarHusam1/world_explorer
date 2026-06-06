@@ -14,7 +14,7 @@ A Flutter app for discovering the world's most stunning destinations — search,
 
 | Home | Explore | Location |
 |:---:|:---:|:---:|
-| <img src="ScreenShotsApp/HomeTab.png" width="180"/> | <img src="ScreenShotsApp/Explore.png" width="180"/> | <img src="ScreenShotsApp/Location.png" width="180"/> |
+| <img src="screenshotsapp.zip/HomeTab.png" width="180"/> | <img src="screenshotsapp.zip/Explore.png" width="180"/> | <img src="ScreenShotsApp/Location.png" width="180"/> |
 
 | Details | Saved | Profile |
 |:---:|:---:|:---:|
